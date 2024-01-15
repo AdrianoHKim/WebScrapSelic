@@ -6,3 +6,5 @@ Bibliotecas(Python) utilizadas:
 * matplotlib
 * seaborn
 * yfinance
+
+API : Banco Central do Brasil
